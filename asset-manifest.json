@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/paapa-kusi.github.io/static/css/main.1d75d989.css",
-    "main.js": "/paapa-kusi.github.io/static/js/main.a930c76a.js",
-    "static/media/objecttfjs.png": "/paapa-kusi.github.io/static/media/objecttfjs.ef2a2d8be7b742e6589e.png",
-    "static/media/cat.PNG": "/paapa-kusi.github.io/static/media/cat.f90b079b832bebcf3bf8.PNG",
-    "static/media/chat.png": "/paapa-kusi.github.io/static/media/chat.4a5a2b2ca3bf46388183.png",
-    "static/media/rps.PNG": "/paapa-kusi.github.io/static/media/rps.ea14c2fcebe8c1df1dbf.PNG",
-    "static/media/mnist.png": "/paapa-kusi.github.io/static/media/mnist.e66a598bba86439372db.png",
-    "static/media/game.png": "/paapa-kusi.github.io/static/media/game.b0bb8183e2b92b441b1a.png",
-    "static/media/portfolio.png": "/paapa-kusi.github.io/static/media/portfolio.89f8d2986508f435984d.png",
-    "index.html": "/paapa-kusi.github.io/index.html",
-    "main.1d75d989.css.map": "/paapa-kusi.github.io/static/css/main.1d75d989.css.map",
-    "main.a930c76a.js.map": "/paapa-kusi.github.io/static/js/main.a930c76a.js.map"
+    "main.css": "/static/css/main.1d75d989.css",
+    "main.js": "/static/js/main.0e249241.js",
+    "static/media/objecttfjs.png": "/static/media/objecttfjs.ef2a2d8be7b742e6589e.png",
+    "static/media/cat.PNG": "/static/media/cat.f90b079b832bebcf3bf8.PNG",
+    "static/media/chat.png": "/static/media/chat.4a5a2b2ca3bf46388183.png",
+    "static/media/rps.PNG": "/static/media/rps.ea14c2fcebe8c1df1dbf.PNG",
+    "static/media/mnist.png": "/static/media/mnist.e66a598bba86439372db.png",
+    "static/media/game.png": "/static/media/game.b0bb8183e2b92b441b1a.png",
+    "static/media/portfolio.png": "/static/media/portfolio.89f8d2986508f435984d.png",
+    "index.html": "/index.html",
+    "main.1d75d989.css.map": "/static/css/main.1d75d989.css.map",
+    "main.0e249241.js.map": "/static/js/main.0e249241.js.map"
   },
   "entrypoints": [
     "static/css/main.1d75d989.css",
-    "static/js/main.a930c76a.js"
+    "static/js/main.0e249241.js"
   ]
 }
