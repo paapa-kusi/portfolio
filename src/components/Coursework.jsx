@@ -27,7 +27,7 @@ const Coursework = () => {
           { id: 11, code: "CEN 3031", name: "Intro to Software Engineering", semester: "Spring 2025" },
           { id: 12, code: "EEL 3872", name: "Artificial Intelligence Fundamentals", semester: "Spring 2025" },
           { id: 13, code: "EEL 5840", name: "Fundamentals of Machine Learning", semester: "Spring 2025" },
-          { id: 14, code: "EME 3813", name: "Technology-Enhanced Learning Environments", semester: "Spring 2025" },
+          { id: 14, code: "CIS 4930", name: "Intro to Machine Learning", semester: "Spring 2025" },
           { id: 15, code: "MAS 3114", name: "Computational Linear Algebra", semester: "Spring 2025" },
         ].map((course) => (
           <React.Fragment key={course.id}>
