@@ -4,7 +4,7 @@ const Coursework = () => {
   return (
     <div className="w-full text-white text-center -my-20">
       <div className="text-4xl sm:text-5xl md:text-6xl font-bold">Relevant Coursework</div>
-      <div className="text-lg text-slate-400 font-bold mt-2">As of Spring 2025</div>
+      <div className="text-lg text-slate-400 font-bold mt-2">As of Fall 2025</div>
 
       <div className="mt-10 grid grid-cols-1 sm:grid-cols-5 gap-4 text-lg">
         {/* Header Row */}
@@ -29,6 +29,17 @@ const Coursework = () => {
           { id: 13, code: "EEL 5840", name: "Fundamentals of Machine Learning", semester: "Spring 2025" },
           { id: 14, code: "CIS 4930", name: "Intro to Machine Learning", semester: "Spring 2025" },
           { id: 15, code: "MAS 3114", name: "Computational Linear Algebra", semester: "Spring 2025" },
+            { id: 16, code: "ECO 3713", name: "International Macroeconomics", semester: "Summer 2025" },
+          { id: 17, code: "EME3813", name: "Technology-Enhanced Learning Environments", semester: "Summer 2025" },
+          { id: 18, code: "ENC3246", name: "Professional Communication for Engineers", semester: "Summer 2025" },
+          { id: 19, code: "PHI3681", name: "Ethics, Data, and Technology", semester: "Summer 2025" },
+            { id: 20, code: "CIS6261", name: "Trustworthy Machine Learning", semester: "Fall 2025" },
+          { id: 21, code: "COP4020", name: "Programming Language Concepts", semester: "Fall 2025" },
+          { id: 22, code: "COP4533", name: "Algorithm Abstraction and Design", semester: "Fall 2025" },
+          { id: 23, code: "COP4600", name: "Operating Systems", semester: "Fall 2025" },
+          { id: 24, code: "EGS4034", name: "Engineering Ethics and Professionalism", semester: "Fall 2025" },
+          { id: 25, code: "QMB3302", name: "Foundations of Business Analytics and Artificial Intelligence (AI)", semester: "Fall 2025" },
+
         ].map((course) => (
           <React.Fragment key={course.id}>
             <div className="hidden sm:block text-neutral-50">{course.id}</div>
