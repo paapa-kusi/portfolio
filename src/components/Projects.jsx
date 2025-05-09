@@ -8,6 +8,7 @@ import rps from '../img/rps.PNG';
 import game from '../img/game.png';
 import objecttfjs from '../img/objecttfjs.png';
 import portfolio from '../img/portfolio.png';
+import flappy from '../img/flappy.png';
 
 const Projects = () => {
   const projects = [
@@ -74,6 +75,16 @@ const Projects = () => {
         { id: 19, icon: <SiIcons.SiCss3 size={40} /> },
       ],
     },
+    {
+      title: 'Flappy Bird Agent',
+      image: flappy,
+      github: 'https://github.com/paapa-kusi/flappy-agent',
+      tech: [
+        {id: 20, icon: <DiIcons.DiPython size={40}/>},
+        {id: 21, icon: <SiIcons.SiPytorch size={40}/>},
+        {id: 22, icon: <SiIcons.SiNumpy size={40}/>},
+      ],
+    }
   ];
 
   return (

@@ -52,7 +52,7 @@ const Bar = () => {
             Coursework <FaIcons.FaPen className="ml-2" />
           </a>
           <a
-            href="https://drive.google.com/file/d/1MKiAQU5pnUHu-kk76lmaGkJlURK7WFgG/view?usp=sharing"
+            href="https://drive.google.com/file/d/1iqZmAK4dLEnuEPuGdNaXsW5iHQps7K8m/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#0021A5] hover:bg-black text-white font-bold py-2 px-4 rounded-full whitespace-nowrap flex items-center"
