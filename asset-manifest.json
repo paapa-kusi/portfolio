@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c728fee2.css",
-    "main.js": "/portfolio/static/js/main.d6893717.js",
+    "main.js": "/portfolio/static/js/main.0fd5f4cc.js",
     "static/media/objecttfjs.png": "/portfolio/static/media/objecttfjs.ef2a2d8be7b742e6589e.png",
     "static/media/cat.PNG": "/portfolio/static/media/cat.f90b079b832bebcf3bf8.PNG",
     "static/media/flappy.png": "/portfolio/static/media/flappy.51fff7422a593e41cf5c.png",
@@ -9,14 +9,15 @@
     "static/media/rps.PNG": "/portfolio/static/media/rps.ea14c2fcebe8c1df1dbf.PNG",
     "static/media/mnist.png": "/portfolio/static/media/mnist.e66a598bba86439372db.png",
     "static/media/game.png": "/portfolio/static/media/game.b0bb8183e2b92b441b1a.png",
+    "static/media/courserec.png": "/portfolio/static/media/courserec.4777d7be0dbbfebef8f5.png",
     "static/media/National_Society_of_Black_Engineers_logo.svg.png": "/portfolio/static/media/National_Society_of_Black_Engineers_logo.svg.8ff4d360e97096ac2002.png",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.89f8d2986508f435984d.png",
     "index.html": "/portfolio/index.html",
     "main.c728fee2.css.map": "/portfolio/static/css/main.c728fee2.css.map",
-    "main.d6893717.js.map": "/portfolio/static/js/main.d6893717.js.map"
+    "main.0fd5f4cc.js.map": "/portfolio/static/js/main.0fd5f4cc.js.map"
   },
   "entrypoints": [
     "static/css/main.c728fee2.css",
-    "static/js/main.d6893717.js"
+    "static/js/main.0fd5f4cc.js"
   ]
 }
