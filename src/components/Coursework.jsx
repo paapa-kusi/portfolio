@@ -283,16 +283,28 @@ const Coursework = () => {
     },
     {
       id: 24,
-      code: "QMB 3302",
-      name: "Foundations of Business Analytics and Artificial Intelligence (AI)",
+      code: "CIS 6930",
+      name: "Special Topics in CIS: Large Language Models",
       semester: "Fall 2025",
       date: "2025-09",
-      category: "Business",
+      category: "Artificial Intelligence",
       icon: <FaChartBar />,
       color: "#1abc9c",
-      description: "Introduction to business analytics and AI. Covers fundamental concepts and tools for data analysis and decision-making.",
+      description: "Graduate-level introduction to large language models (LLMs). Covers tokenization, transformer architectures, training and fine-tuning methods, retrieval-augmented and knowledge-enhanced LLMs, reasoning and planning, multimodality, and safety alignment. Includes a team-based final project applying LLMs to real-world problems",
       syllabus: "SYLLABUS_LINK_HERE",
     },
+    {
+    id: 24,
+    code: "CAP 4641",
+    name: "Natural Language Processing",
+    semester: "Fall 2025",
+    date: "2025-09",
+    category: "Artificial Intelligence",
+    icon: <FaChartBar />,
+    color: "#1abc9c",
+    description: "Introduction to the theory and practice of natural language processing. Covers linguistic foundations, n-gram models, parsing, sequence labeling, embeddings, and modern transformer-based methods. Includes hands-on projects in Python applying NLP techniques to tasks such as machine translation, conversational agents, and evaluation of NLP systems",
+    syllabus: "SYLLABUS_LINK_HERE",
+  },
   ];
 
   return (

@@ -2,6 +2,7 @@ import React from 'react';
 import MLTImage from '../img/MLT.png';
 import NSBEImage from '../img/National_Society_of_Black_Engineers_logo.svg.png';
 import SASEImage from '../img/1631367175815.jpeg';
+import AI4AllImage from '../img/ai4allorg_logo.jpeg'
 
 const Leadership = () => {
   return (
@@ -48,6 +49,28 @@ const Leadership = () => {
               </h4>
               <p className='text-sm'>
                 Developing strategic leadership, communication, and event planning skills.
+              </p>
+            </div>
+          </div>
+
+          {/* AI4All */}
+          <div className='bg-gray-900 rounded-lg overflow-hidden group relative h-96'>
+            <img
+              src={AI4AllImage}
+              alt='AI4All'
+              className='w-full h-full object-cover'
+            />
+            <div className='absolute inset-0 bg-black bg-opacity-75 transition-opacity duration-300 opacity-0 group-hover:opacity-100 p-6 flex flex-col justify-center'>
+              <h3 className='text-xl font-semibold mb-2'>
+                AI4All
+              </h3>
+              <h4 className='text-lg  mb-1'>
+                AI/ML Ignite Fellow
+              </h4>
+              <p className='text-sm'>
+                Participating in a no-cost, 20-week virtual accelerator focused on AI and machine learning.
+                Gaining mentorship, hands-on technical experience, and career readiness training to build a strong AI portfolio
+                and prepare for competitive AI internships.
               </p>
             </div>
           </div>
