@@ -9,6 +9,7 @@ import game from '../img/game.png';
 import objecttfjs from '../img/objecttfjs.png';
 import portfolio from '../img/portfolio.png';
 import flappy from '../img/flappy.png';
+import courserec from '../img/courserec.png';
 
 const Projects = () => {
   const projects = [
@@ -84,7 +85,21 @@ const Projects = () => {
         {id: 21, icon: <SiIcons.SiPytorch size={40}/>},
         {id: 22, icon: <SiIcons.SiNumpy size={40}/>},
       ],
-    }
+    },
+      {
+      title: 'Course Recommender',
+      image: courserec,
+      github: 'https://github.com/paapa-kusi/portfolio', // update if needed
+      tech: [
+        { id: 23, icon: <DiIcons.DiPython size={40} /> },
+        { id: 24, icon: <SiIcons.SiDjango size={40} /> },
+        { id: 25, icon: <SiIcons.SiHtml5 size={40} /> },
+        { id: 26, icon: <SiIcons.SiCss3 size={40} /> },
+        { id: 27, icon: <SiIcons.SiSqlite size={40} /> },
+        { id: 28, icon: <SiIcons.SiBootstrap size={40} /> },
+      ],
+    },
+
   ];
 
   return (
