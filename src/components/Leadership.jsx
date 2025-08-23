@@ -45,10 +45,11 @@ const Leadership = () => {
                 National Society of Black Engineers
               </h3>
               <h4 className='text-lg  mb-1'>
-                Shadowing Initiative Program
+                Webmaster
               </h4>
               <p className='text-sm'>
-                Developing strategic leadership, communication, and event planning skills.
+                Manage and update the NSBE Gator Chapter website, ensuring accessibility and alignment with chapter branding.
+                Collaborate with PR on digital content and lead Hacktivist, a 3-part coding workshop series on programming, data structures, and applied coding.
               </p>
             </div>
           </div>
